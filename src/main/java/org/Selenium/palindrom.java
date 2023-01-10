@@ -5,7 +5,7 @@ import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
 public class palindrom {
 	static int r,sum;
 	public static void main(String args[]) {
-		int a=11;
+		int a=100;
 		int temp=a;
 		
 		while(temp>0) {
