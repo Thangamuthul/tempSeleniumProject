@@ -32,7 +32,7 @@ public class PrimeorNot {
 	}
 	
 	public static void main(String args[]) {
-		PrintPrimeorNot(2);
+		PrintPrimeorNot(10);
 	}
 	
 }
