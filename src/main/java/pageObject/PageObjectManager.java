@@ -17,4 +17,6 @@ public class PageObjectManager {
 	{
 		System.out.println("Adding for pull");
 	}
+	public void methodFromBranch(){
+		sysout();
 }
