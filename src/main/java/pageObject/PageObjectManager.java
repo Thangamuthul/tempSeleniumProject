@@ -11,4 +11,6 @@ public class PageObjectManager {
 	public JQueryUIMenuPageObjects getJQueryUIMenuPageObjects() {
 	return (jQueryUIMenuPageObjects == null) ? jQueryUIMenuPageObjects = new JQueryUIMenuPageObjects(driver) : jQueryUIMenuPageObjects;
 	}
+	public void methodFromBranch(){
+		sysout();
 }
