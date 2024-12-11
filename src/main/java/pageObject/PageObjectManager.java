@@ -18,3 +18,6 @@ public class PageObjectManager {
 	public void methodFromBranch(){
 		sysout();
 }
+
+
+//Git change on 11/12/2024 03:19 PM
